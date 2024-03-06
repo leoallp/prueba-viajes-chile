@@ -1,0 +1,15 @@
+
+/* barra de navegacion */
+.navbar {
+    background-color: #2598a2;
+    
+}
+
+/* iconos seccion quienes somos */
+.icon {
+    background-color:#2d9da7;
+    text-align: center;
+    margin-top: 1em;
+    height: 25%;   
+}
+
